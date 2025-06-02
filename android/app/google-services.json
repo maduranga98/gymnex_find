@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "538457462989",
+    "project_id": "gymnex-65440",
+    "storage_bucket": "gymnex-65440.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538457462989:android:b38adf54fd1d14e683f184",
+        "android_client_info": {
+          "package_name": "com.example.gymnex_find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538457462989-qecjjl0aptc87dtqfd1s0kv6nu06nc18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZseyM_VoRXeZrXpoZJ_Ei0_8pWYI9_yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538457462989-qecjjl0aptc87dtqfd1s0kv6nu06nc18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538457462989-u8bfbrkluk72h3tpcrfgknrqi10gc3cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymnexManage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538457462989:android:e43c4d52834fadbc83f184",
+        "android_client_info": {
+          "package_name": "com.example.gymnex_manage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538457462989-qecjjl0aptc87dtqfd1s0kv6nu06nc18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZseyM_VoRXeZrXpoZJ_Ei0_8pWYI9_yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538457462989-qecjjl0aptc87dtqfd1s0kv6nu06nc18.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538457462989-u8bfbrkluk72h3tpcrfgknrqi10gc3cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymnexManage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
